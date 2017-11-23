@@ -1,0 +1,5 @@
+com\example\model\Product.class
+com\example\exception\InvalidSalaryExcpetion.class
+com\example\exception\InvalidProductException.class
+com\example\PayrollService.class
+com\example\ShoppingService.class
